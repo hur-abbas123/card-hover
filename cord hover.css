@@ -10,6 +10,12 @@ body{
 
 }
 
+.main_h1{
+	text-align:center;
+	justify-content:center;
+	color:#fff;
+}
+
 .container{
 	width: 1000px;
 	position: relative;
